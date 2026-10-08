@@ -1,0 +1,444 @@
+--- 
+
++++ 
+
+@@ -1,4 +1,4 @@
+
+-using UnityEngine;
+
++﻿using UnityEngine;
+
+ using UnityEngine.UI;
+
+ using TMPro;
+
+ using System.Collections;
+
+@@ -55,10 +55,6 @@
+
+     public GameObject prefabPeluruTerbang;
+
+     public GameObject prefabLedakan;
+
+     public float durasiTerbangPeluru = 0.5f;
+
+-
+
+-    [Header("--- AUDIO LEDAKAN ---")]
+
+-    public AudioClip suaraLedakan;
+
+-    [Range(0f, 1f)] public float volumeLedakan = 0.9f;
+
+ 
+
+     [Header("--- ANIMASI SENAPAN ---")]
+
+     public Animator animatorSenapan;
+
+@@ -122,13 +118,6 @@
+
+     private bool lanjutKeSelesaiLevel = false;
+
+     private bool lanjutDariEvaluasi = false;
+
+ 
+
+-    private void MainkanSuaraLedakan(Vector3 posisi)
+
+-    {
+
+-        if (suaraLedakan == null) return;
+
+-        Vector3 posisiAudio = Camera.main != null ? Camera.main.transform.position : posisi;
+
+-        AudioSource.PlayClipAtPoint(suaraLedakan, posisiAudio, volumeLedakan);
+
+-    }
+
+-
+
+     private void Awake()
+
+     {
+
+         Instance = this;
+
+@@ -138,7 +127,6 @@
+
+     {
+
+         nyawaSaatIni = nyawaMaksimal;
+
+         nyawaRajaSaatIni = nyawaRajaMaksimal;
+
+-        koinSaatIni = GameStatisticsManager.GetTotalKoin();
+
+ 
+
+         UpdateUIHati();
+
+         UpdateUIKoin();
+
+@@ -367,7 +355,7 @@
+
+     {
+
+         if (soalTerjawabBenar >= totalSoalTarget)
+
+         {
+
+-            Debug.Log("Target jawaban benar tercapai → selesai level");
+
++            Debug.Log("Target jawaban benar tercapai Ã¢â€ â€™ selesai level");
+
+             StartCoroutine(SelesaiLevelCoroutine());
+
+             return;
+
+         }
+
+@@ -422,7 +410,7 @@
+
+         if (sedangMemproses || currentState != GameState.MenungguJawaban) return;
+
+         if (inputJawaban == null || soalAktif == null) return;
+
+ 
+
+-        string jawabanUser = inputJawaban.text.Trim();
+
++        string jawabanUser = System.Text.RegularExpressions.Regex.Replace(inputJawaban.text, @"[^\d-]", "");
+
+         if (string.IsNullOrEmpty(jawabanUser))
+
+         {
+
+             Debug.Log("Jawaban kosong");
+
+@@ -457,12 +445,11 @@
+
+ 
+
+     private IEnumerator ProsesJawabanBenar()
+
+     {
+
++        if (AnalyticsTracker.Instance != null) AnalyticsTracker.Instance.TrackQuestionAnswered(true);
+
+         sedangMemproses = true;
+
+         currentState = GameState.Menembak;
+
+ 
+
+         koinSaatIni += koinPerJawabanBenar;
+
+-        GameStatisticsManager.TambahKoin(koinPerJawabanBenar);
+
+-        GameStatisticsManager.CatatJawabanBenar(soalAktif != null ? $"S6L3-{soalAktif.instruksiTeks}" : "S6L3");
+
+         UpdateUIKoin();
+
+         soalTerjawabBenar++;
+
+ 
+
+@@ -501,7 +488,6 @@
+
+         {
+
+             GameObject e = Instantiate(prefabLedakan, objekRaja.transform.position, Quaternion.identity);
+
+             Destroy(e, durasiLedakan);
+
+-            MainkanSuaraLedakan(objekRaja.transform.position);
+
+         }
+
+ 
+
+         if (scriptRaja != null) scriptRaja.KenaDamage();
+
+@@ -521,11 +507,10 @@
+
+ 
+
+     private IEnumerator ProsesJawabanSalah()
+
+     {
+
++        if (AnalyticsTracker.Instance != null) AnalyticsTracker.Instance.TrackQuestionAnswered(false);
+
+         sedangMemproses = true;
+
+         currentState = GameState.Menembak;
+
+         lanjutKeSelesaiLevel = false;
+
+-
+
+-        GameStatisticsManager.CatatJawabanSalah(soalAktif != null ? $"S6L3-{soalAktif.instruksiTeks}" : "S6L3");
+
+ 
+
+         TampilkanFeedback(soalAktif.feedbackSalah, false);
+
+         if (objekJawaban != null) objekJawaban.SetActive(false);
+
+@@ -561,7 +546,6 @@
+
+         {
+
+             GameObject e = Instantiate(prefabLedakanPlayer, playerTransform.position, Quaternion.identity);
+
+             Destroy(e, 1.5f);
+
+-            MainkanSuaraLedakan(playerTransform.position);
+
+         }
+
+ 
+
+         nyawaSaatIni--;
+
+@@ -599,7 +583,7 @@
+
+     }
+
+ 
+
+ // =========================================================
+
+-// SELESAI: Portal → VIDEO → EVALUASI → Menu_Pencapaian
+
++// SELESAI: Portal Ã¢â€ â€™ VIDEO Ã¢â€ â€™ EVALUASI Ã¢â€ â€™ Menu_Pencapaian
+
+ // =========================================================
+
+ private IEnumerator SelesaiLevelCoroutine()
+
+ {
+
+@@ -607,14 +591,11 @@
+
+     SembunyikanSemuaPanelUI();
+
+     SembunyikanAngkaPerisai();
+
+ 
+
+-    Debug.Log("<color=cyan>SELESAI LEVEL: raja → portal → video → evaluasi</color>");
+
++    Debug.Log("<color=cyan>SELESAI LEVEL: raja Ã¢â€ â€™ portal Ã¢â€ â€™ video Ã¢â€ â€™ evaluasi</color>");
+
+ 
+
+     if (scriptRaja != null)
+
+         scriptRaja.Kalah();
+
+ 
+
+-    GameStatisticsManager.CatatBossKalah("Raja Anomali");
+
+-    GameStatisticsManager.BerikanRewardLevel(6, 3, 1, 50);
+
+-
+
+     yield return new WaitForSeconds(Mathf.Min(delaySetelahRajaHilang, 0.3f));
+
+ 
+
+     if (objekRaja != null)
+
+@@ -629,16 +610,33 @@
+
+     // Video langsung
+
+     yield return StartCoroutine(CobaPutarVideoDiPortal());
+
+ 
+
++    // Evaluasi
+
++    yield return StartCoroutine(TampilkanEvaluasiDanTungguKlik());
+
++
+
+     currentState = GameState.Selesai;
+
+-    Debug.Log("<color=cyan>Level Selesai!</color>");
+
+-    if (panelEvaluasi != null)
+
+-    {
+
+-        WinManager.TampilkanWin(panelEvaluasi);
+
+-    }
+
+-    else
+
+-    {
+
+-        WinManager.TampilkanWin();
+
+-    }
+
++
+
++    // --- MENGIRIM DATA KE LMS (LEARN) ---
+
++    if (AnalyticsTracker.Instance != null)
+
++    {
+
++        AnalyticsTracker.Instance.TrackScore(koinSaatIni);
+
++        AnalyticsTracker.Instance.TrackHealthChanged(nyawaSaatIni);
+
++        AnalyticsTracker.Instance.TrackCompletionPercentage(100f);
+
++        AnalyticsTracker.Instance.EndSession(completed: true);
+
++
+
++        if (LMSManager.Instance != null)
+
++        {
+
++            LMSManager.Instance.KirimAnalyticsKeMoodle(AnalyticsTracker.Instance.CurrentSession);
+
++            Debug.Log("Ã¢Å“â€¦ [Stage6Level3Manager] Mengirim analytics ke Moodle");
+
++        }
+
++    }
+
++    else if (LMSManager.Instance != null)
+
++    {
+
++        LMSManager.Instance.KirimKoinKeMoodle(koinSaatIni);
+
++    }
+
++    // -------------------------------------
+
++
+
++    Debug.Log("<color=cyan>Ã¢â€ â€™ Menu_Pencapaian</color>");
+
++    SceneManager.LoadScene(namaSceneSetelahEvaluasi);
+
+ }
+
+ 
+
+ // Instant ke portal (hilangkan delay jalan panjang)
+
+@@ -671,11 +669,11 @@
+
+         panelEvaluasi.SetActive(false);
+
+ 
+
+     float tPortal = Time.realtimeSinceStartup;
+
+-    Debug.Log($"<color=yellow>PORTAL SIAP @ {tPortal:F2} → panggil video</color>");
+
++    Debug.Log($"<color=yellow>PORTAL SIAP @ {tPortal:F2} Ã¢â€ â€™ panggil video</color>");
+
+ 
+
+     if (portalVideo == null)
+
+     {
+
+-        Debug.LogWarning("portalVideo NULL → langsung evaluasi");
+
++        Debug.LogWarning("portalVideo NULL Ã¢â€ â€™ langsung evaluasi");
+
+         yield break;
+
+     }
+
+ 
+
+@@ -694,12 +692,12 @@
+
+ 
+
+     if (!selesai)
+
+     {
+
+-        Debug.LogWarning("Video timeout → Skip");
+
++        Debug.LogWarning("Video timeout Ã¢â€ â€™ Skip");
+
+         portalVideo.Skip();
+
+     }
+
+     else
+
+     {
+
+-        Debug.Log("Video selesai → evaluasi");
+
++        Debug.Log("Video selesai Ã¢â€ â€™ evaluasi");
+
+     }
+
+ }
+
+ 
+
+@@ -750,9 +748,10 @@
+
+ 
+
+     public void OnKlikLanjutDariEvaluasi()
+
+     {
+
++        if (currentState != GameState.Evaluasi) return;
+
++
+
+         lanjutDariEvaluasi = true;
+
+-        Debug.Log("<color=green>Lanjut evaluasi → Map_Checkpoint</color>");
+
+-        WinManager.PindahKeMapCheckpoint();
+
++        Debug.Log("<color=green>Lanjut evaluasi Ã¢â€ â€™ Menu_Pencapaian</color>");
+
+     }
+
+ 
+
+     private void UpdateUIHati()
+
+@@ -799,8 +798,9 @@
+
+         Invoke(nameof(PindahKeMenuPencapaian), 2f);
+
+     }
+
+ 
+
++
+
+     private void PindahKeMenuPencapaian()
+
+     {
+
+         SceneManager.LoadScene(namaSceneGameOver);
+
+     }
+
+-}
++}
