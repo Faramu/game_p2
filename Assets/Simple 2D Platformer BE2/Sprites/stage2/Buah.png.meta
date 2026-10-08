@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: a19cc9d38c674b245973b6cd93e0c7aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5132463934339989631
+    second: Buah_0
+  - first:
+      213: -5067599375076290027
+    second: Buah_1
+  - first:
+      213: -7470035751998364256
+    second: Buah_2
+  - first:
+      213: 436765707151281976
+    second: Buah_3
+  - first:
+      213: -488630616379031159
+    second: Buah_4
+  - first:
+      213: -7522400636702719430
+    second: Buah_5
+  - first:
+      213: -8576382148408571288
+    second: Buah_6
+  - first:
+      213: 5421552223580321857
+    second: Buah_7
+  - first:
+      213: -6080976025523892005
+    second: Buah_8
+  - first:
+      213: -8726882056962583184
+    second: Buah_9
+  - first:
+      213: 2108059039482588880
+    second: Buah_10
+  - first:
+      213: -4523059265490213701
+    second: Buah_11
+  - first:
+      213: -6126864349354114534
+    second: Buah_12
+  - first:
+      213: -773240868656878192
+    second: Buah_13
+  - first:
+      213: -5310663521844685225
+    second: Buah_14
+  - first:
+      213: 8583069040302442023
+    second: Buah_15
+  - first:
+      213: -6237335103161211430
+    second: Buah_16
+  - first:
+      213: -1784792726269340760
+    second: Buah_17
+  - first:
+      213: -6533994525387866923
+    second: Buah_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Buah_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 750
+        width: 187
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70c6dc51cc2a3740800000000000000
+      internalID: 5132463934339989631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 505
+        width: 248
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5121698b7354ca9b0800000000000000
+      internalID: -5067599375076290027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 757
+        width: 213
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a56baebf0a155890800000000000000
+      internalID: -7470035751998364256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_3
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 729
+        width: 196
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f03d8b814bf0600800000000000000
+      internalID: 436765707151281976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_4
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 736
+        width: 220
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98109541b090839f0800000000000000
+      internalID: -488630616379031159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_5
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 788
+        width: 219
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32892fe9701b9790800000000000000
+      internalID: -7522400636702719430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_6
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 905
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a0b1a20e19af880800000000000000
+      internalID: -8576382148408571288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_7
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 807
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148fbb1d5093d3b40800000000000000
+      internalID: 5421552223580321857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_8
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 831
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd05bfee5880c9ba0800000000000000
+      internalID: -6080976025523892005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 227
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075d3069103e3e680800000000000000
+      internalID: -8726882056962583184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 472
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de29e50784514d10800000000000000
+      internalID: 2108059039482588880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 574
+        width: 178
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4aa6eef8dda31c0800000000000000
+      internalID: -4523059265490213701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 381
+        width: 216
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a124eb5f55109faa0800000000000000
+      internalID: -6126864349354114534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 370
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d64e9d685e445f0800000000000000
+      internalID: -773240868656878192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_14
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 326
+        width: 238
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75692daf9abbc46b0800000000000000
+      internalID: -5310663521844685225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_15
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 2
+        width: 454
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72641ed21df2d1770800000000000000
+      internalID: 8583069040302442023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_16
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 515
+        width: 202
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5600f35c88079a0800000000000000
+      internalID: -6237335103161211430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_17
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 529
+        width: 241
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d301c8742b37e0800000000000000
+      internalID: -1784792726269340760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Buah_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 200
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcb8e509969255a0800000000000000
+      internalID: -6533994525387866923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Buah_0: 5132463934339989631
+      Buah_1: -5067599375076290027
+      Buah_10: 2108059039482588880
+      Buah_11: -4523059265490213701
+      Buah_12: -6126864349354114534
+      Buah_13: -773240868656878192
+      Buah_14: -5310663521844685225
+      Buah_15: 8583069040302442023
+      Buah_16: -6237335103161211430
+      Buah_17: -1784792726269340760
+      Buah_18: -6533994525387866923
+      Buah_2: -7470035751998364256
+      Buah_3: 436765707151281976
+      Buah_4: -488630616379031159
+      Buah_5: -7522400636702719430
+      Buah_6: -8576382148408571288
+      Buah_7: 5421552223580321857
+      Buah_8: -6080976025523892005
+      Buah_9: -8726882056962583184
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

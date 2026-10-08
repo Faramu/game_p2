@@ -1,0 +1,371 @@
+fileFormatVersion: 2
+guid: f6abbf4d53af25a438ebcd45935eb7c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4753263497638993319
+    second: NGEK2-DOKTER_0
+  - first:
+      213: 2467438228818902450
+    second: NGEK2-DOKTER_1
+  - first:
+      213: -1237215145773410561
+    second: NGEK2-DOKTER_2
+  - first:
+      213: 7992676793271323250
+    second: NGEK2-DOKTER_3
+  - first:
+      213: 406344012982672922
+    second: NGEK2-DOKTER_4
+  - first:
+      213: -2593370127356851724
+    second: NGEK2-DOKTER_5
+  - first:
+      213: -2068913863257790088
+    second: NGEK2-DOKTER_6
+  - first:
+      213: 4046032812553240032
+    second: NGEK2-DOKTER_7
+  - first:
+      213: -7047809242327238505
+    second: NGEK2-DOKTER_8
+  - first:
+      213: -3604943086404923160
+    second: NGEK2-DOKTER_9
+  - first:
+      213: 7634438244420993017
+    second: NGEK2-DOKTER_10
+  - first:
+      213: -7502734994390612938
+    second: NGEK2-DOKTER_11
+  - first:
+      213: -6406666480989900752
+    second: NGEK2-DOKTER_12
+  - first:
+      213: -2624515226038600053
+    second: NGEK2-DOKTER_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 857
+        width: 182
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad5a9c97fbf6f140800000000000000
+      internalID: 4753263497638993319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 846
+        width: 189
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd38fdfef91e3220800000000000000
+      internalID: 2467438228818902450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_2
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 843
+        width: 183
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff65175416784dee0800000000000000
+      internalID: -1237215145773410561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 457
+        width: 198
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a027b4231bbee60800000000000000
+      internalID: 7992676793271323250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 457
+        width: 249
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f909c30c9f720cd0800000000000000
+      internalID: -2593370127356851724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 457
+        width: 224
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87963ad8dcdb943e0800000000000000
+      internalID: -2068913863257790088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 134
+        width: 237
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed7fcdf765662830800000000000000
+      internalID: 4046032812553240032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_9
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 134
+        width: 273
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0955bdc5ba8fdc0800000000000000
+      internalID: -3604943086404923160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NGEK2-DOKTER_11
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 134
+        width: 278
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6348477164ee0e790800000000000000
+      internalID: -7502734994390612938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5ab340109733ff44f8456d0923de30d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NGEK2-DOKTER_0: 4753263497638993319
+      NGEK2-DOKTER_1: 2467438228818902450
+      NGEK2-DOKTER_10: 7634438244420993017
+      NGEK2-DOKTER_11: -7502734994390612938
+      NGEK2-DOKTER_12: -6406666480989900752
+      NGEK2-DOKTER_13: -2624515226038600053
+      NGEK2-DOKTER_2: -1237215145773410561
+      NGEK2-DOKTER_3: 7992676793271323250
+      NGEK2-DOKTER_4: 406344012982672922
+      NGEK2-DOKTER_5: -2593370127356851724
+      NGEK2-DOKTER_6: -2068913863257790088
+      NGEK2-DOKTER_7: 4046032812553240032
+      NGEK2-DOKTER_8: -7047809242327238505
+      NGEK2-DOKTER_9: -3604943086404923160
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

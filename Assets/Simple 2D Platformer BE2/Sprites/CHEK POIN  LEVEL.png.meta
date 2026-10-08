@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 36b0344903962824e9f72f39e209329e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6516169944028713290
+    second: CHEK POIN  LEVEL_0
+  - first:
+      213: 1113781986593534081
+    second: CHEK POIN  LEVEL_1
+  - first:
+      213: 4421023483552000644
+    second: CHEK POIN  LEVEL_2
+  - first:
+      213: 8900889860807756690
+    second: CHEK POIN  LEVEL_3
+  - first:
+      213: 5327129344195711908
+    second: CHEK POIN  LEVEL_4
+  - first:
+      213: -5876351449525857669
+    second: CHEK POIN  LEVEL_5
+  - first:
+      213: -3959133744777552117
+    second: CHEK POIN  LEVEL_6
+  - first:
+      213: 6565567069133151316
+    second: CHEK POIN  LEVEL_7
+  - first:
+      213: -5242712326964401477
+    second: CHEK POIN  LEVEL_8
+  - first:
+      213: 3477251808109503574
+    second: CHEK POIN  LEVEL_9
+  - first:
+      213: 3146443164274094182
+    second: CHEK POIN  LEVEL_10
+  - first:
+      213: -8284016571271983535
+    second: CHEK POIN  LEVEL_11
+  - first:
+      213: -669528891309735504
+    second: CHEK POIN  LEVEL_12
+  - first:
+      213: -9166542113980259036
+    second: CHEK POIN  LEVEL_13
+  - first:
+      213: -5469405631765624193
+    second: CHEK POIN  LEVEL_14
+  - first:
+      213: 7862847642373714281
+    second: CHEK POIN  LEVEL_15
+  - first:
+      213: 1364821853235671963
+    second: CHEK POIN  LEVEL_16
+  - first:
+      213: -4796151253626756256
+    second: CHEK POIN  LEVEL_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1530
+        width: 211
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4198e93a061e6a50800000000000000
+      internalID: 6516169944028713290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1530
+        width: 210
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f224d0d2f47f00800000000000000
+      internalID: 1113781986593534081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_2
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1530
+        width: 208
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ae6c84f61aa5d30800000000000000
+      internalID: 4421023483552000644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1258
+        width: 210
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b82526b20568b70800000000000000
+      internalID: 8900889860807756690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1257
+        width: 209
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a358590ae3cde940800000000000000
+      internalID: 5327129344195711908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1257
+        width: 208
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d8abad71037ea0800000000000000
+      internalID: -5876351449525857669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 978
+        width: 210
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f9544e5d45e09c0800000000000000
+      internalID: -3959133744777552117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 977
+        width: 210
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c1fa8a6749d1b50800000000000000
+      internalID: 6565567069133151316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_8
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 977
+        width: 207
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa9bb6ae42e37b0800000000000000
+      internalID: -5242712326964401477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 709
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654a3f0a81ea14030800000000000000
+      internalID: 3477251808109503574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 708
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660738823696aab20800000000000000
+      internalID: 3146443164274094182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_11
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 708
+        width: 207
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e42eba1d2490d80800000000000000
+      internalID: -8284016571271983535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 435
+        width: 210
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b14f9a450b55b6f0800000000000000
+      internalID: -669528891309735504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 435
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4256c858386e9c080800000000000000
+      internalID: -9166542113980259036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 435
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ac61a5e84c814b0800000000000000
+      internalID: -5469405631765624193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 161
+        width: 211
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961f3b685427e1d60800000000000000
+      internalID: 7862847642373714281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 161
+        width: 210
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937dcf8e32d0f210800000000000000
+      internalID: 1364821853235671963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CHEK POIN  LEVEL_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 161
+        width: 208
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063688e88d5a07db0800000000000000
+      internalID: -4796151253626756256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CHEK POIN  LEVEL_0: 6516169944028713290
+      CHEK POIN  LEVEL_1: 1113781986593534081
+      CHEK POIN  LEVEL_10: 3146443164274094182
+      CHEK POIN  LEVEL_11: -8284016571271983535
+      CHEK POIN  LEVEL_12: -669528891309735504
+      CHEK POIN  LEVEL_13: -9166542113980259036
+      CHEK POIN  LEVEL_14: -5469405631765624193
+      CHEK POIN  LEVEL_15: 7862847642373714281
+      CHEK POIN  LEVEL_16: 1364821853235671963
+      CHEK POIN  LEVEL_17: -4796151253626756256
+      CHEK POIN  LEVEL_2: 4421023483552000644
+      CHEK POIN  LEVEL_3: 8900889860807756690
+      CHEK POIN  LEVEL_4: 5327129344195711908
+      CHEK POIN  LEVEL_5: -5876351449525857669
+      CHEK POIN  LEVEL_6: -3959133744777552117
+      CHEK POIN  LEVEL_7: 6565567069133151316
+      CHEK POIN  LEVEL_8: -5242712326964401477
+      CHEK POIN  LEVEL_9: 3477251808109503574
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

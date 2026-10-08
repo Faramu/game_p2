@@ -1,0 +1,1313 @@
+fileFormatVersion: 2
+guid: d292de8ddfbd9fc48b5abd35e3867e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7572165544036261013
+    second: Papan_0
+  - first:
+      213: -5933232397290005376
+    second: Papan_1
+  - first:
+      213: -6466118737967767069
+    second: Papan_2
+  - first:
+      213: 7679892994557690659
+    second: Papan_3
+  - first:
+      213: -6063853930569914782
+    second: Papan_4
+  - first:
+      213: 1478729336421909268
+    second: Papan_5
+  - first:
+      213: 6935393585299783898
+    second: Papan_6
+  - first:
+      213: -8228423493428500191
+    second: Papan_7
+  - first:
+      213: 3547664030469219215
+    second: Papan_8
+  - first:
+      213: -1276946745830529444
+    second: Papan_9
+  - first:
+      213: 8417127236759243768
+    second: Papan_10
+  - first:
+      213: -3392286008997204606
+    second: Papan_11
+  - first:
+      213: -454997803494884562
+    second: Papan_12
+  - first:
+      213: -209280530635653965
+    second: Papan_13
+  - first:
+      213: -4235984726549190518
+    second: Papan_14
+  - first:
+      213: -8741403620986017403
+    second: Papan_15
+  - first:
+      213: 7099100215973176372
+    second: Papan_16
+  - first:
+      213: 703204646409224459
+    second: Papan_17
+  - first:
+      213: 5642576235345168643
+    second: Papan_18
+  - first:
+      213: -8791780607483592480
+    second: Papan_19
+  - first:
+      213: 1719677373913247739
+    second: Papan_20
+  - first:
+      213: 1488873874952092051
+    second: Papan_21
+  - first:
+      213: 3254134467667512714
+    second: Papan_22
+  - first:
+      213: 6978208322747702257
+    second: Papan_23
+  - first:
+      213: -7257191354691018444
+    second: Papan_24
+  - first:
+      213: 1827194510981702344
+    second: Papan_25
+  - first:
+      213: -5826492485096618840
+    second: Papan_26
+  - first:
+      213: 8233069918787175274
+    second: Papan_27
+  - first:
+      213: 2411799965919216664
+    second: Papan_28
+  - first:
+      213: -4017498183850868290
+    second: Papan_29
+  - first:
+      213: -1050637875368282639
+    second: Papan_30
+  - first:
+      213: -1793173215693910246
+    second: Papan_31
+  - first:
+      213: 721908334056956849
+    second: Papan_32
+  - first:
+      213: 7921383029534117850
+    second: Papan_33
+  - first:
+      213: 4691056547932544996
+    second: Papan_34
+  - first:
+      213: -5186202037735854277
+    second: Papan_35
+  - first:
+      213: 6533382740294024541
+    second: Papan_36
+  - first:
+      213: 7346354681043486709
+    second: Papan_37
+  - first:
+      213: 3115771800231778381
+    second: Papan_38
+  - first:
+      213: -1831702298874005281
+    second: Papan_39
+  - first:
+      213: -6118218758026542031
+    second: Papan_40
+  - first:
+      213: -8306161037543226250
+    second: Papan_41
+  - first:
+      213: -9181825349652163902
+    second: Papan_42
+  - first:
+      213: -5027953711628989570
+    second: Papan_43
+  - first:
+      213: 9137741394275185205
+    second: Papan_44
+  - first:
+      213: 8960796567987699310
+    second: Papan_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Papan_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 363
+        width: 107
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6324478e834ae690800000000000000
+      internalID: -7572165544036261013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 348
+        width: 102
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c90bdf19ce8ada0800000000000000
+      internalID: -5933232397290005376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 349
+        width: 95
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e12feb444bb346a0800000000000000
+      internalID: -6466118737967767069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 346
+        width: 84
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3234f9d1df5749a60800000000000000
+      internalID: 7679892994557690659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 346
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26626825afcd8dba0800000000000000
+      internalID: -6063853930569914782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 345
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41380603f70858410800000000000000
+      internalID: 1478729336421909268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 289
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0015578b77f3060800000000000000
+      internalID: 6935393585299783898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 288
+        width: 93
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12927b4cd64cecd80800000000000000
+      internalID: -8228423493428500191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 287
+        width: 95
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836c8ea3a5db3130800000000000000
+      internalID: 3547664030469219215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 292
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c562ea143bf574ee0800000000000000
+      internalID: -1276946745830529444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 285
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbcc4040a4afc470800000000000000
+      internalID: 8417127236759243768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_11
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 285
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da13119dd2ce0d0800000000000000
+      internalID: -3392286008997204606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 242
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bba1d88e58fa9f0800000000000000
+      internalID: -454997803494884562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 244
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc7e09577c781df0800000000000000
+      internalID: -209280530635653965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_14
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 242
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a882e0c9552c635c0800000000000000
+      internalID: -4235984726549190518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 238
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589a0dc78bb40b680800000000000000
+      internalID: -8741403620986017403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_16
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 241
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434eaf5a802158260800000000000000
+      internalID: 7099100215973176372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 243
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0140a176e842c900800000000000000
+      internalID: 703204646409224459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_18
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 244
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3094fcdb0357e4e40800000000000000
+      internalID: 5642576235345168643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 248
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0c5cb4e125df580800000000000000
+      internalID: -8791780607483592480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_20
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 248
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff2068d5758dd710800000000000000
+      internalID: 1719677373913247739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_21
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 132
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399f0ef96ea89a410800000000000000
+      internalID: 1488873874952092051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4da4ae02092d20800000000000000
+      internalID: 3254134467667512714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 132
+        width: 49
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb1d065f7397d060800000000000000
+      internalID: 6978208322747702257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 133
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4312b94c9e6494b90800000000000000
+      internalID: -7257191354691018444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_25
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 138
+        width: 47
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ab921abf7b5910800000000000000
+      internalID: 1827194510981702344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 142
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4455374f3242fa0800000000000000
+      internalID: -5826492485096618840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 147
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a638340787db14270800000000000000
+      internalID: 8233069918787175274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_28
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 152
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8140aed6a4f687120800000000000000
+      internalID: 2411799965919216664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_29
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 153
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1cac9ffaafe38c0800000000000000
+      internalID: -4017498183850868290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_30
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 150
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f53a1b3b626b61f0800000000000000
+      internalID: -1050637875368282639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc1d1067e5d17e0800000000000000
+      internalID: -1793173215693910246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 72
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ebd31ecbb40a00800000000000000
+      internalID: 721908334056956849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 73
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf403565e76eed60800000000000000
+      internalID: 7921383029534117850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_34
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 78
+        width: 61
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef1ac8731bf91140800000000000000
+      internalID: 4691056547932544996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 84
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe85f69b8e608b0800000000000000
+      internalID: -5186202037735854277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_36
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 85
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5db4e8acfc3baa50800000000000000
+      internalID: 6533382740294024541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_37
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 85
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f700a5e8ae73f560800000000000000
+      internalID: 7346354681043486709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_38
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 88
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d489ef9b1f17d3b20800000000000000
+      internalID: 3115771800231778381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 87
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd83955c67c7496e0800000000000000
+      internalID: -1831702298874005281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13442bd8478b71ba0800000000000000
+      internalID: -6118218758026542031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 9
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674cb065b869abc80800000000000000
+      internalID: -8306161037543226250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_42
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c25e4ced7a939080800000000000000
+      internalID: -9181825349652163902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_43
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 9
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b4f3f0dbe193ab0800000000000000
+      internalID: -5027953711628989570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_44
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 10
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b72f5267cfce70800000000000000
+      internalID: 9137741394275185205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papan_45
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 6
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e327390052b5c70800000000000000
+      internalID: 8960796567987699310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Papan_0: -7572165544036261013
+      Papan_1: -5933232397290005376
+      Papan_10: 8417127236759243768
+      Papan_11: -3392286008997204606
+      Papan_12: -454997803494884562
+      Papan_13: -209280530635653965
+      Papan_14: -4235984726549190518
+      Papan_15: -8741403620986017403
+      Papan_16: 7099100215973176372
+      Papan_17: 703204646409224459
+      Papan_18: 5642576235345168643
+      Papan_19: -8791780607483592480
+      Papan_2: -6466118737967767069
+      Papan_20: 1719677373913247739
+      Papan_21: 1488873874952092051
+      Papan_22: 3254134467667512714
+      Papan_23: 6978208322747702257
+      Papan_24: -7257191354691018444
+      Papan_25: 1827194510981702344
+      Papan_26: -5826492485096618840
+      Papan_27: 8233069918787175274
+      Papan_28: 2411799965919216664
+      Papan_29: -4017498183850868290
+      Papan_3: 7679892994557690659
+      Papan_30: -1050637875368282639
+      Papan_31: -1793173215693910246
+      Papan_32: 721908334056956849
+      Papan_33: 7921383029534117850
+      Papan_34: 4691056547932544996
+      Papan_35: -5186202037735854277
+      Papan_36: 6533382740294024541
+      Papan_37: 7346354681043486709
+      Papan_38: 3115771800231778381
+      Papan_39: -1831702298874005281
+      Papan_4: -6063853930569914782
+      Papan_40: -6118218758026542031
+      Papan_41: -8306161037543226250
+      Papan_42: -9181825349652163902
+      Papan_43: -5027953711628989570
+      Papan_44: 9137741394275185205
+      Papan_45: 8960796567987699310
+      Papan_5: 1478729336421909268
+      Papan_6: 6935393585299783898
+      Papan_7: -8228423493428500191
+      Papan_8: 3547664030469219215
+      Papan_9: -1276946745830529444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

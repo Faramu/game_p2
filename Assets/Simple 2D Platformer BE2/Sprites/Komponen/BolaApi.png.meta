@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 8e0494cbaf482184b88f11339259cbfc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6094857197524052820
+    second: BolaApi_0
+  - first:
+      213: 6634701139483166058
+    second: BolaApi_1
+  - first:
+      213: -2536609632366391249
+    second: BolaApi_2
+  - first:
+      213: 3035220611816666356
+    second: BolaApi_3
+  - first:
+      213: -6625877161091914719
+    second: BolaApi_4
+  - first:
+      213: 2314916717833969547
+    second: BolaApi_5
+  - first:
+      213: -2099248527672734157
+    second: BolaApi_6
+  - first:
+      213: -494134932937946545
+    second: BolaApi_7
+  - first:
+      213: -2098100266410421975
+    second: BolaApi_8
+  - first:
+      213: 4871150208496512531
+    second: BolaApi_9
+  - first:
+      213: 3613309148901874024
+    second: BolaApi_10
+  - first:
+      213: -7138832600194777301
+    second: BolaApi_11
+  - first:
+      213: -305787661958239121
+    second: BolaApi_12
+  - first:
+      213: -1491785039553707993
+    second: BolaApi_13
+  - first:
+      213: -8892847013349387027
+    second: BolaApi_14
+  - first:
+      213: -1565858265139369740
+    second: BolaApi_15
+  - first:
+      213: -5905211483660178901
+    second: BolaApi_16
+  - first:
+      213: 1434753771022328722
+    second: BolaApi_17
+  - first:
+      213: -410608620845207726
+    second: BolaApi_18
+  - first:
+      213: -2801137451206279084
+    second: BolaApi_19
+  - first:
+      213: -3578161017243272387
+    second: BolaApi_20
+  - first:
+      213: -1787253129967255852
+    second: BolaApi_21
+  - first:
+      213: 4207396130880137129
+    second: BolaApi_22
+  - first:
+      213: -6317436434016094721
+    second: BolaApi_23
+  - first:
+      213: 8891796118579088742
+    second: BolaApi_24
+  - first:
+      213: -4258816580641951745
+    second: BolaApi_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BolaApi_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 726
+        width: 295
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca498d8bba7ba6ba0800000000000000
+      internalID: -6094857197524052820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 725
+        width: 258
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6506c1c881331c50800000000000000
+      internalID: 6634701139483166058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 724
+        width: 420
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2097f89af62cccd0800000000000000
+      internalID: -2536609632366391249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_3
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 727
+        width: 434
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b64ea0154f1a20800000000000000
+      internalID: 3035220611816666356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 871
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1242ebfc3d72c04a0800000000000000
+      internalID: -6625877161091914719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_5
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 871
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f5b1b6d7c302020800000000000000
+      internalID: 2314916717833969547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 800
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e0ecc1698fdd2e0800000000000000
+      internalID: -2099248527672734157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 770
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a4f1385ea7429f0800000000000000
+      internalID: -494134932937946545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_8
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 775
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92154758cec02e2e0800000000000000
+      internalID: -2098100266410421975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_9
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 759
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e21016e4dc99340800000000000000
+      internalID: 4871150208496512531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_10
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 439
+        width: 476
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86917fbd68d052230800000000000000
+      internalID: 3613309148901874024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_11
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 666
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7962c295cdec90800000000000000
+      internalID: -7138832600194777301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_12
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 650
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2848ddbf91cbf0800000000000000
+      internalID: -305787661958239121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 184
+        width: 336
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c82c096d1c4be0800000000000000
+      internalID: -1491785039553707993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_14
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 475
+        width: 189
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de49a67f1c2469480800000000000000
+      internalID: -8892847013349387027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 529
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f822c14434f44ae0800000000000000
+      internalID: -1565858265139369740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 469
+        width: 391
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2aa0e851797c0ea0800000000000000
+      internalID: -5905211483660178901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 543
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29320fdf3f449e310800000000000000
+      internalID: 1434753771022328722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_18
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 544
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25feec482a93d4af0800000000000000
+      internalID: -410608620845207726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 97
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4508ec5445c5029d0800000000000000
+      internalID: -2801137451206279084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 275
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b70124381d75ec0800000000000000
+      internalID: -3578161017243272387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_21
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 281
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb8906fb66237e0800000000000000
+      internalID: -1787253129967255852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_22
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 119
+        width: 336
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7a6724d7ca36a30800000000000000
+      internalID: 4207396130880137129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_23
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff53c53d805f358a0800000000000000
+      internalID: -6317436434016094721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_24
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d8a178571066b70800000000000000
+      internalID: 8891796118579088742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BolaApi_25
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 97
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffea4352e4a5e4c0800000000000000
+      internalID: -4258816580641951745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 52bf461f42e18fe478183b55e0cd7977
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BolaApi_0: -6094857197524052820
+      BolaApi_1: 6634701139483166058
+      BolaApi_10: 3613309148901874024
+      BolaApi_11: -7138832600194777301
+      BolaApi_12: -305787661958239121
+      BolaApi_13: -1491785039553707993
+      BolaApi_14: -8892847013349387027
+      BolaApi_15: -1565858265139369740
+      BolaApi_16: -5905211483660178901
+      BolaApi_17: 1434753771022328722
+      BolaApi_18: -410608620845207726
+      BolaApi_19: -2801137451206279084
+      BolaApi_2: -2536609632366391249
+      BolaApi_20: -3578161017243272387
+      BolaApi_21: -1787253129967255852
+      BolaApi_22: 4207396130880137129
+      BolaApi_23: -6317436434016094721
+      BolaApi_24: 8891796118579088742
+      BolaApi_25: -4258816580641951745
+      BolaApi_3: 3035220611816666356
+      BolaApi_4: -6625877161091914719
+      BolaApi_5: 2314916717833969547
+      BolaApi_6: -2099248527672734157
+      BolaApi_7: -494134932937946545
+      BolaApi_8: -2098100266410421975
+      BolaApi_9: 4871150208496512531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

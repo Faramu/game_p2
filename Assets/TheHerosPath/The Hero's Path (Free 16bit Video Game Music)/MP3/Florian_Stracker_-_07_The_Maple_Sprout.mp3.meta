@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ddded8cccf482b8458171867c189da08
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 204232
+  packageName: The Hero's Path (Free 16bit Adventure Game Music)
+  packageVersion: 1.0
+  assetPath: Assets/TheHerosPath/The Hero's Path (Free 16bit Video Game Music)/MP3/Florian_Stracker_-_07_The_Maple_Sprout.mp3
+  uploadId: 455714
